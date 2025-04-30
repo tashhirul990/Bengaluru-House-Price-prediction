@@ -1,4 +1,3 @@
-```markdown
 # Bengaluru House Price Prediction
 
 This project aims to predict house prices in Bengaluru using machine learning. Follow the steps below to set up and run the application.
